@@ -1,10 +1,3 @@
-<p align="center">
-  <img 
-    alt="Shepherd.js Logo"
-    src="https://i.imgur.com/cowwtSX.png"/>
-</p>
-  
-
 [![npm version](https://badge.fury.io/js/shepherd.js.svg)](http://badge.fury.io/js/shepherd.js)
 ![Download count all time](https://img.shields.io/npm/dt/shepherd.js.svg)
 ![npm](https://img.shields.io/npm/dm/shepherd.js.svg)
